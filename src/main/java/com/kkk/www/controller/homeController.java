@@ -24,7 +24,7 @@ public class homeController {
         logger.info("[info] log!");
         logger.warn("[warn] log!");
         logger.error("[error] log!");
-        //UserInfoVO userInfoVO = userInfoService.selectUserInfo("kkk");
+        UserInfoVO userInfoVO = userInfoService.selectUserInfo("kkk");
         return "home/home";
     }
 }
