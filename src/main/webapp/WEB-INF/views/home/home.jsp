@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <h2>Login</h2>
+        <h2>Login2</h2>
     </header>
     <form action="" method="POST">
         <div class="input-box">
